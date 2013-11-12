@@ -1,0 +1,15 @@
+﻿Build started 10-11-2013 17:54:38.
+     1>Project "c:\Users\PC2\documents\visual studio 2012\Projects\libArtNet\libArtNet\libArtNet.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\libArtNet.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt artdmx.c
+         artdmx.c
+       Lib:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"c:\users\pc2\documents\visual studio 2012\Projects\libArtNet\Debug\libArtNet.lib" /NOLOGO Debug\artdmx.obj
+         Debug\artnetio.obj
+         Debug\stdafx.obj
+         libArtNet.vcxproj -> c:\users\pc2\documents\visual studio 2012\Projects\libArtNet\Debug\libArtNet.lib
+     1>Done Building Project "c:\Users\PC2\documents\visual studio 2012\Projects\libArtNet\libArtNet\libArtNet.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15
